@@ -71,7 +71,7 @@
         "vite": "^2.4.1",
         "vue": "^3.2.25",
         "vue-docgen-api": "^4.40.0",
-        "vue-loader": "^16.2.0",
+        "vue-loader": "^17.0.0",
         "vue-router": "^4.0.6",
         "vue-template-compiler": "^2.6.12"
     },
